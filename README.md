@@ -110,7 +110,7 @@ Automates discovery of relevant Reddit posts for GTM work, scores posts with AI,
 
 ## License
 
-MIT (recommended). Create a `LICENSE` file with the MIT text if you plan to share this publicly.
+MIT 
 
 ---
 
