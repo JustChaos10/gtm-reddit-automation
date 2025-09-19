@@ -23,8 +23,6 @@ Automates discovery of relevant Reddit posts for GTM work, scores posts with AI,
 - `GTM_Automation_Workflow_Documentation.docx` — Human‑readable overview and setup notes.
 - `README.md` — You’re here.
 
-> Tip: If your repo is public, consider removing workspace‑specific secrets before pushing any future config files.
-
 ---
 
 ## Quick start (Zapier)
